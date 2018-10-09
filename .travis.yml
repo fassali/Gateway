@@ -15,7 +15,3 @@ test:
     encoding: utf8
 script: 
     - mvn clean install
-
-    
-    
-"app.pages.user({id:u.id})"
